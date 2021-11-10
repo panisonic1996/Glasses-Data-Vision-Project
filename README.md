@@ -9,7 +9,5 @@ Types of glasses and links for relevant scraped pages:
 5. Poco Grande glass
 6. Martini glass
 7. Hurricane glass
-8. Sling glass
 9. Old fashioned glass
-10. Collins glass
 11. Margarita glass
