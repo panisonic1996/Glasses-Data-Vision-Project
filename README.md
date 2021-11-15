@@ -10,3 +10,5 @@ Types of glasses and links for relevant scraped pages:
 6. Martini glass
 7. Old fashioned glass 
 8. Margarita glass
+9. Steamless Wine Glass
+10. Highball Glass
