@@ -12,3 +12,12 @@ Types of glasses and links for relevant scraped pages:
 8. Margarita glass
 9. Steamless Wine Glass
 10. Highball Glass
+
+
+To do:
+- создать папки
+- переименовать документы
+- создать csv файлы
+- написать описание и создание дататсета
+- написать описание самого проекта и шагов с технологиями
+- 
