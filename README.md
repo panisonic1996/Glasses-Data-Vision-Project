@@ -1,7 +1,7 @@
 #  Bar Glasses Recognition 
 # :cocktail: :clinking_glasses: :wine_glass: :tropical_drink: :tumbler_glass:
 
-This is a project to recognize the type of bar glass from a picture.
+This is a project of recognizing the type of bar glass from a picture.
 
 ### Project steps:
 
