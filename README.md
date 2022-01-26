@@ -13,13 +13,13 @@ This is a project to recognize the type of bar glass from a picture.
   
   4). Image classifier (convolutional neural network, functional way, using  tensorflow, keras) was built.
   
-  5). 5. Model has been evaluated, confusion matrix has been plotted
+  5). Model was evaluated, confusion was plotted.
           
         Results:
       - train dataset: loss 0.0513, accuracy: 0.9791
       - validation dataset: loss 0.1250, accuracy: 0.9677
        -test dataset: loss 0.1584, accuracy: 0.9624
 
-*Link to raw and processed datasets:
+*Link to raw and processed datasets:*
 https://drive.google.com/drive/folders/1D79ZgPXy0enkB9CVQcxB60N36szftUAj?usp=sharing
 
