@@ -19,3 +19,7 @@ This is a project to recognize the type of bar glass from a picture.
       - train dataset: loss 0.0513, accuracy: 0.9791
       - validation dataset: loss 0.1250, accuracy: 0.9677
        -test dataset: loss 0.1584, accuracy: 0.9624
+
+*Link to raw and processed datasets:
+https://drive.google.com/drive/folders/1D79ZgPXy0enkB9CVQcxB60N36szftUAj?usp=sharing
+
